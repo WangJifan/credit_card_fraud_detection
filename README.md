@@ -1,13 +1,3 @@
-# Project Overview
-
-This repository provides a comprehensive solution to the challenge by implementing each step in a series of Jupyter Notebook files. The program is designed for ease of use, with automatic data downloading and streamlined processing.
-
-## Key Features
-- **No manual data download or file path adjustments needed** – the program automatically retrieves the necessary data.
-- **Step-by-step implementation** – each challenge question is addressed in a structured manner.
-- **Efficient handling of duplicate transactions** – ensures data quality and accuracy.
-- **Feature engineering for optimized model performance** – prepares data for predictive analysis.
-- **Comprehensive modeling phase** – builds, trains, and evaluates a predictive model.
 
 ## Instructions
 To run the program, execute the Jupyter Notebooks in the following order:
@@ -34,6 +24,3 @@ To run the program, execute the Jupyter Notebooks in the following order:
 **What it does:**
 - Builds, trains, and evaluates a predictive model using the prepared dataset.
 - Provides detailed performance metrics and insights.
-
-## Thank You
-Thank you for using this program! If you have any questions or suggestions, feel free to contribute or open an issue in this repository.
